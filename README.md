@@ -1,4 +1,4 @@
-# Simple Notes App for practice jenkins 
+# Simple Notes App for practice Jenkins Automation 
 This is a simple notes app built with React and Django.
 
 ## Requirements
